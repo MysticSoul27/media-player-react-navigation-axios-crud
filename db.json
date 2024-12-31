@@ -1,0 +1,126 @@
+{
+  "uploadVideos": [
+    {
+      "id": "59fe",
+      "caption": "Sookshmadarshini",
+      "imgURL": "https://static.toiimg.com/photo/115572077.cms",
+      "youtubeLink": "https://www.youtube.com/embed/IrkfzvO9LkE"
+    },
+    {
+      "id": "13b5",
+      "caption": "ARM",
+      "imgURL": "https://industryhit.com/t/wp-content/uploads/2024/09/GXP8VHfaEAAoqZB-e1726130169686.jpeg",
+      "youtubeLink": "https://www.youtube.com/embed/B2UBMTA57JI"
+    },
+    {
+      "id": "e1d8",
+      "caption": "Remo Bgms",
+      "imgURL": "https://data1.ibtimes.co.in/en/full/625039/remo-telugu-audio-launch-poster.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/Bf67mfzqb50"
+    },
+    {
+      "id": "be77",
+      "caption": "Puspha 2",
+      "imgURL": "https://images.news18.com/ibnlive/uploads/2024/10/pushpa-2_-allu-arjun-rashmika-mandanna-unveil-new-poster-on-diwali-2024-10-3fd71762babaab258eaf7fb5a457b3cd.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/cMulQrRnwtc"
+    },
+    {
+      "id": "1ac3",
+      "caption": "Guppy song Thaniye",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BNDY3NTVjNmMtODAyOS00MjFhLThkMDMtMmJiYjliYjRkODIxXkEyXkFqcGc@._V1_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/l0yU-mcCM9I"
+    },
+    {
+      "id": "a6ab",
+      "caption": "Abhi Mujh Me Kahin Bombay Choir",
+      "imgURL": "https://i.ytimg.com/vi/AdY_KpBmi6k/maxresdefault.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/PXiqKIomKV0"
+    },
+    {
+      "id": "1331",
+      "caption": "Lucky Bhaskar",
+      "imgURL": "https://www.mathrubhumi.com/image/contentid/policy:1.9881187:1725693459/WhatsApp%20Image%202024-09-07%20at%2011.39.56.jpeg?$p=a976405&f=16x9&w=1080&q=0.8",
+      "youtubeLink": "https://www.youtube.com/embed/Kv5RKsqVe-Y"
+    },
+    {
+      "id": "402c",
+      "caption": "Fighter",
+      "imgURL": "https://pragativadi.com/core/uploads/2024/01/WhatsApp-Image-2024-01-22-at-15.07.59.jpeg",
+      "youtubeLink": "https://www.youtube.com/embed/6amIq_mP4xM"
+    }
+  ],
+  "categories": [
+    {
+      "id": "8b06",
+      "categoryName": "Favorites",
+      "allVideos": [
+        {
+          "id": "a4d8",
+          "caption": "Jawan",
+          "imgURL": "https://i.cdn.newsbytesapp.com/images/l56920230724122614.jpeg",
+          "youtubeLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        }
+      ]
+    },
+    {
+      "id": "8715",
+      "categoryName": "Trailers",
+      "allVideos": []
+    },
+    {
+      "id": "7c1a",
+      "categoryName": "Musics",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "9894",
+      "caption": "Sookshmadarshini",
+      "youtubeLink": "https://www.youtube.com/embed/IrkfzvO9LkE",
+      "timeStamp": "12/23/2024, 7:53:29 PM"
+    },
+    {
+      "id": "268f",
+      "caption": "ARM",
+      "youtubeLink": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "timeStamp": "12/23/2024, 7:55:54 PM"
+    },
+    {
+      "id": "4021",
+      "caption": "Fighter",
+      "youtubeLink": "https://www.youtube.com/embed/6amIq_mP4xM",
+      "timeStamp": "12/23/2024, 7:57:24 PM"
+    },
+    {
+      "id": "9de9",
+      "caption": "Jawan",
+      "youtubeLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "12/23/2024, 7:59:36 PM"
+    },
+    {
+      "id": "d3ed",
+      "caption": "ARM",
+      "youtubeLink": "https://www.youtube.com/embed/B2UBMTA57JI",
+      "timeStamp": "12/26/2024, 12:20:39 PM"
+    },
+    {
+      "id": "0476",
+      "caption": "Puspha 2",
+      "youtubeLink": "https://www.youtube.com/embed/cMulQrRnwtc",
+      "timeStamp": "12/27/2024, 11:41:07 AM"
+    },
+    {
+      "id": "2434",
+      "caption": "Lucky Bhaskar",
+      "youtubeLink": "https://www.youtube.com/embed/Kv5RKsqVe-Y",
+      "timeStamp": "12/30/2024, 3:37:22 PM"
+    },
+    {
+      "id": "987a",
+      "caption": "Puspha 2",
+      "youtubeLink": "https://www.youtube.com/embed/cMulQrRnwtc",
+      "timeStamp": "12/31/2024, 9:36:51 AM"
+    }
+  ]
+}
